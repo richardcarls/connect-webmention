@@ -1,0 +1,23 @@
+{
+  "name": "connect-webmention",
+  "version": "0.1.0",
+  "description": "Webmention middleware for Connect and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardcarls/connect-webmention.git"
+  },
+  "keywords": [
+    "Connect",
+    "Webmention"
+  ],
+  "author": "Richard Carls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardcarls/connect-webmention/issues"
+  },
+  "homepage": "https://github.com/richardcarls/connect-webmention#readme"
+}
