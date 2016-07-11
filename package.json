@@ -1,5 +1,5 @@
 {
-  "name": "connect-webmention",
+  "name": "@rcarls/connect-webmention",
   "version": "0.1.0",
   "description": "Webmention middleware for Connect and Express.",
   "main": "index.js",
@@ -19,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/richardcarls/connect-webmention/issues"
   },
-  "homepage": "https://github.com/richardcarls/connect-webmention#readme"
+  "homepage": "https://github.com/richardcarls/connect-webmention#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "jsonpath": "^0.2.6",
+    "lodash": "^4.13.1",
+    "microformat-node": "^2.0.0",
+    "request": "^2.72.0",
+    "throw.js": "^2.0.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "nock": "^8.0.0"
+  }
 }
